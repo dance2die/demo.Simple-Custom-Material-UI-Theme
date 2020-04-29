@@ -1,7 +1,7 @@
 {
-  "name": "material-ui-custom-theme-using-create-mui-theme",
+  "name": "a-simple-custom-material-ui-theme-set-up",
   "version": "1.0.0",
-  "description": "Created a new theme via https://react-theming.github.io/create-mui-theme/",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
